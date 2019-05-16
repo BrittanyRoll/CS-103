@@ -1,0 +1,81 @@
+20
+0
+	2x0l.mil
+	0.0
+	8 6 18 4 11 13
+1
+	7f.mil
+	0.0
+	17 11 6
+2
+	cpjkeilq.edu
+	0.0
+	7 12
+3
+	aq1y8y6.com
+	0.0
+	18 9
+4
+	s.com
+	0.0
+	12 19
+5
+	uimh.net
+	0.0
+	4
+6
+	7c6y.net
+	0.0
+	13
+7
+	zb8d.gov
+	0.0
+	4
+8
+	zn2.com
+	0.0
+	5
+9
+	6v.edu
+	0.0
+	18
+10
+	53kj.net
+	0.0
+	12
+11
+	7al4x.net
+	0.0
+	13
+12
+	9tgn6.gov
+	0.0
+	18
+13
+	j6gmv.edu
+	0.0
+	14
+14
+	bc83.net
+	0.0
+	8
+15
+	mm1t8.net
+	0.0
+	12
+16
+	oywhl7.com
+	0.0
+	18
+17
+	ugxko9.com
+	0.0
+	0
+18
+	xa5pham.edu
+	0.0
+	8
+19
+	0hpuv.mil
+	0.0
+	13

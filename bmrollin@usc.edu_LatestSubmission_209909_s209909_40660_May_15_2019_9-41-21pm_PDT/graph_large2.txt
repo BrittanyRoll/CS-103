@@ -1,0 +1,122 @@
+30
+0
+	5vnk.gov
+	0.0
+	11 4 23 22
+1
+	w2t61b.mil
+	0.0
+	19 27 15
+2
+	lm6j.com
+	0.0
+	24 3
+3
+	40nak2fo.edu
+	0.0
+	5 29
+4
+	d6oxt.com
+	0.0
+	27 7
+5
+	asgb2s.gov
+	0.0
+	28 0
+6
+	8g3wy.com
+	0.0
+	13 1
+7
+	n5yxeloy.mil
+	0.0
+	19 5
+8
+	8gxbik.com
+	0.0
+	25 1
+9
+	o.gov
+	0.0
+	16
+10
+	i76gh4r.net
+	0.0
+	18
+11
+	79lh.com
+	0.0
+	16
+12
+	lpqmwv.gov
+	0.0
+	0
+13
+	xs.mil
+	0.0
+	23
+14
+	r0z.mil
+	0.0
+	11
+15
+	v.net
+	0.0
+	19
+16
+	a0wuec6.mil
+	0.0
+	19
+17
+	yj9q.edu
+	0.0
+	29
+18
+	n2t.gov
+	0.0
+	9
+19
+	5pq.gov
+	0.0
+	9
+20
+	irb.net
+	0.0
+	0
+21
+	478jna.mil
+	0.0
+	26
+22
+	82q5rk.net
+	0.0
+	23
+23
+	qb5r.edu
+	0.0
+	10
+24
+	7zof.net
+	0.0
+	18
+25
+	wgxhfo.net
+	0.0
+	6
+26
+	5uz.com
+	0.0
+	18
+27
+	6n3z.com
+	0.0
+	10
+28
+	od2.net
+	0.0
+	18
+29
+	06z.net
+	0.0
+	5
+
